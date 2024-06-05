@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [DASARI DURGA ARUNAKUMAR!](https://github.com/amandewatnitrr)
+# Hey Everyone! I'm [DASARI DURGA ARUNAKUMAR!](https://github.com/ArunaK-netizen)
 <br><br>
 
 <a href="https://www.linkedin.com/in/my-linkedin">
@@ -10,12 +10,11 @@
 <a href="https://www.instagram.com/my-insta">
   <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/my-hackerrank">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <br><br>
-![](https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/header_.png)
+![.](https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> Student @VIT CHENNAI </samp></h4></p>
 
@@ -77,8 +76,8 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/amandewatnitrr/A-10-NEXA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
+<a href="https://github.com/ArunaK-netizen/Sorting-Visualizer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
 </a>
   </span>
   
