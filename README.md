@@ -14,7 +14,7 @@
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <br><br>
-![.](https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/header_.png)
+<img src="https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/header_.png"/>
 
 ## <p align="center"><h4 align="center"><samp> Student @VIT CHENNAI </samp></h4></p>
 
@@ -80,9 +80,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
 </a>
   </span>
-  
-<hr>
 
+<br><br>
+<hr>
+### 🏆 GitHub Profile Trophy:
  <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ArunaK-netizen&column=8&theme=onedark&no-frame=true&no-bg=true"/>
