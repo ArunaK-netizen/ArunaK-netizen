@@ -1,16 +1,16 @@
 # <samp>Hey Everyone! I'm [DASARI DURGA ARUNAKUMAR!](https://github.com/ArunaK-netizen)</samp>
 <br><br>
 
-<a href="https://www.linkedin.com/in/my-linkedin">
+<a href="https://www.linkedin.com/in/dasari-durga-arunakumar-4b78841b6/">
   <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ArunaK-netizen">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/my-insta">
-  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/my-hackerrank">
+
+[![LeetCode user arunakumar_546](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farunakumar_546&logo=leetcode&logoColor=yellow)](https://leetcode.com/arunakumar_546/)
+
+<a href="https://www.hackerrank.com/profile/arundd2004">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <br><br>
@@ -44,9 +44,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-013243?style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height=20px/>
 
 
 <span>
