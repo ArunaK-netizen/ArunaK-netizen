@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [DASARI DURGA ARUNAKUMAR!](https://github.com/ArunaK-netizen)
+# <samp>Hey Everyone! I'm [DASARI DURGA ARUNAKUMAR!](https://github.com/ArunaK-netizen)</samp>
 <br><br>
 
 <a href="https://www.linkedin.com/in/my-linkedin">
@@ -19,7 +19,7 @@
 ## <p align="center"><h4 align="center"><samp> Student @VIT CHENNAI </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/ArunaK-netizen/ArunaK-netizen/blob/main/terminal.gif" width="20%"/>
   <br>
 
 - 👨‍🎓 <samp><b>B.Tech in Computer Science Engineering Core (2022-2026) in Vellore Institute of Technology, Chennai - 9.14 CGPA</b>
@@ -27,7 +27,7 @@
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
 </div>
-
+  
 ##
 
 <div>
@@ -79,12 +79,15 @@
 <a href="https://github.com/ArunaK-netizen/Sorting-Visualizer">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
 </a>
-  </span>
-
+</span>
 <br><br>
+<br><br>
+<br><br>
+
 <hr>
-### 🏆 GitHub Profile Trophy:
- <p align="center">
+
+<h3><b><samp>Github Trophies</samp></b></h3>
+ <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ArunaK-netizen&column=8&theme=onedark&no-frame=true&no-bg=true"/>
  </a>
