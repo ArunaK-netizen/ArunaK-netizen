@@ -101,5 +101,8 @@
  <hr>
 <h3><b><samp>My Stats</samp></b></h3>
 
-![ArunaK-netizen's Stats](https://github-readme-stats.vercel.app/api?username=ArunaK-netizen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ArunaK-netizen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArunaK-netizen&theme=vue-dark&hide_border=true)
+<div>
+  <img align='middle' src="https://github-readme-stats.vercel.app/api?username=ArunaK-netizen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width=40% height=250px/>
+  <br>
+  <img align='middle' src="https://github-readme-streak-stats.herokuapp.com/?user=ArunaK-netizen&theme=vue-dark&hide_border=true" width=40% height=270px/>
+</div>
