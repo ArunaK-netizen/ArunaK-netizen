@@ -80,6 +80,7 @@
 <a href="https://github.com/ArunaK-netizen/Sorting-Visualizer">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
 </a>
+
 </span>
 <br><br>
 <br><br>
@@ -95,3 +96,9 @@
  </a>
  </p>
 
+ <br>
+
+ <hr>
+
+![ArunaK-netizen's Stats](https://github-readme-stats.vercel.app/api?username=ArunaK-netizen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ArunaK-netizen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArunaK-netizen&theme=vue-dark&hide_border=true)
