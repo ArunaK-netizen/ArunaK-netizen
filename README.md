@@ -8,7 +8,7 @@
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
-[![LeetCode user arunakumar_546](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farunakumar_546&logo=leetcode&logoColor=yellow)](https://leetcode.com/arunakumar_546/)
+[![LeetCode user Blackdevil0070](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FBlackdevil0070&logo=leetcode&logoColor=yellow)](https://leetcode.com/Blackdevil0070/)
 
 <a href="https://www.hackerrank.com/profile/arundd2004">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
