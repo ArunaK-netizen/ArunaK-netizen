@@ -77,9 +77,13 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/ArunaK-netizen/Sorting-Visualizer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=Sorting-Visualizer" />
+<a href="https://github.com/ArunaK-netizen/BumpAlert">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=BumpAlert" />
 </a>
+<a href="https://github.com/ArunaK-netizen/PaveSense">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaK-netizen&repo=PaveSense" />
+</a>
+
 
 </span>
 <br><br>
